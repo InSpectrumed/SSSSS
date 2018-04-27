@@ -36,3 +36,6 @@ HEADERS += \
         mainwindow.h \
     pagehandler.h \
     minengs.h
+
+RESOURCES += \
+    res.qrc
